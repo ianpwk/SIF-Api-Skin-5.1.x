@@ -26,7 +26,7 @@ Add Comboburst (osu, ctb, mania)
 Save For osu and ctb
 - simply save the picture
 - find "Love Live SIF KW v5" folder in Skins folders (or open osu! game, click options (Ctrl+O), click 'open current skin folder')
-- save as name 'comboburst-Q@2x.png' (osu) or comboburst-fruit-Q@2x.png (ctb)
+- save as name 'comboburst-Q@2x.png' (osu) or comboburst-fruits-Q@2x.png (ctb)
 
 Save for mania
 - click Image > Rotate Canvas > flip Canvas Horizontal
