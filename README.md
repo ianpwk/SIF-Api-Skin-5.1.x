@@ -8,12 +8,14 @@ SIF api editors: (photoshop and notepad ++)
 - Mania Keys Edit <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x80">here</a>
 - ScoreBar Background Edit <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x84">here</a>
 - Menu Background and Rank Panel Edit <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x85">here</a>
+
 ---------------------------------------------------------------------------------------------------------------------------------
 for voice:
 - find sound in https://sif.kirara.ca/card/(Number Card)
 - type clrl+F
 - Find "Skill activates" for combobursts (click-right for listen, click "save link as...", convert to wav, rename to "comboburst-x.wav")
 - Find "After live failure" for fail sound (click-right for listen, click "save link as...", convert to wav, rename to "failsound.wav")
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Add Comboburst (osu, ctb, mania)
 - open photoshp, and Make image (ctrl+new) 1100x1400 px
