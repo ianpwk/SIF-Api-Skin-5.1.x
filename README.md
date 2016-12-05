@@ -8,6 +8,7 @@ SIF api editors: (photoshop and notepad ++)
 - Mania Keys Edit <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x80">here</a>
 - ScoreBar Background Edit <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x84">here</a>
 - Menu Background and Rank Panel Edit <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x85">here</a>
+- Welcome sound (all bushimos) <a href="https://github.com/ianpwk/SIF-Api-Skin-5.1.x/releases/tag/5.1x81">here</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------
 for voice:
